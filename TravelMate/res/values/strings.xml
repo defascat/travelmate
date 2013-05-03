@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Попутчик</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройка</string>
+    <string name="i_am_driver">Я везу</string>
+    <string name="i_am_passenger">Я жду</string>
+    <string name="title_activity_driver">Водитель</string>
+    <string name="title_activity_passenger">Пассажир</string>
+    <string name="pref_person_name">Меня зовут</string>
+    <string name="pref_car_registration_number">Номер машины</string>
+    <string name="pref_car_description">Описание машины</string>
+    <string name="pref_other_description">Дополнительное описание</string>
+    <string name="pref_taking_money">Подвожу за деньги</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
